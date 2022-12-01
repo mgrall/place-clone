@@ -1,2 +1,2 @@
 # place-clone
-Eine standalone Variante der poulären Webanwendung /r/place
+Eine standalone Variante der populären Webanwendung /r/place
